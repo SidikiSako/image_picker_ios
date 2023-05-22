@@ -1,0 +1,7 @@
+# This is a generated file; do not edit or check into version control.
+image_picker_ios=/Users/sidikisako/flutterproject/modified_packages/my_image_picker/packages/image_picker/image_picker_ios/
+integration_test=/opt/homebrew/Caskroom/flutter/3.7.0/flutter/packages/integration_test/
+video_player=/Users/sidikisako/.pub-cache/hosted/pub.dev/video_player-2.6.1/
+video_player_android=/Users/sidikisako/.pub-cache/hosted/pub.dev/video_player_android-2.4.8/
+video_player_avfoundation=/Users/sidikisako/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.4.6/
+video_player_web=/Users/sidikisako/.pub-cache/hosted/pub.dev/video_player_web-2.0.16/
